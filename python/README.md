@@ -1,2 +1,2 @@
-# Versão Python (CLI)
-Use `python src/chess_cli.py` para rodar.
+# Xadrez — Versão Python (CLI + Testes)
+... (conteúdo resumido aqui)
